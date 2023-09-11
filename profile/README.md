@@ -3,10 +3,10 @@
     <source
       width="256px"
       media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/exynos7885-dev/.github-private/raw/main/profile/assets/exynos7885-dev-logo/exynos7885-dev-logo.png"
+      srcset="https://github.com/exynos7885-dev/.github/raw/main/profile/assets/exynos7885-dev-logo/exynos7885-dev-logo.png"
     >
     <img 
-      src="https://github.com/exynos7885-dev/.github-private/raw/main/profile/assets/exynos7885-dev-logo/exynos7885-dev-logo.png"
+      src="https://github.com/exynos7885-dev/.github/raw/main/profile/assets/exynos7885-dev-logo/exynos7885-dev-logo.png"
     >
   </picture>
   <br>
@@ -47,6 +47,6 @@
   <img
     height="32px"
     alt="Donate using Paypal"
-    src="https://github.com/exynos7885-dev/.github-private/raw/main/profile/assets/paypal-donate/paypal-donate-button.png"
+    src="https://github.com/exynos7885-dev/.github/raw/main/profile/assets/paypal-donate/paypal-donate-button.png"
   />
 </a>
