@@ -29,7 +29,6 @@
 
 [android_device_samsung_a7y18lte]: https://contrib.rocks/image?repo=exynos7885-dev/android_device_samsung_a7y18lte&max=12
 [android_device_exynos7885-common]: https://contrib.rocks/image?repo=exynos7885-dev/android_device_exynos7885-common&max=12
-[android_kernel_samsung_exynos7885]: https://contrib.rocks/image?repo=exynos7885-dev/android_kernel_samsung_exynos7885&max=12
 [android_vendor_samsung_exynos7885-common]: https://contrib.rocks/image?repo=exynos7885-dev/android_vendor_samsung_exynos7885-common&max=12
 
 
@@ -37,7 +36,6 @@
 | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
 | 💻 [A7 2018](https://github.com/exynos7885-dev/android_device_samsung_a7y18lte)                   | [![android_device_samsung_a7y18lte]](https://github.com/exynos7885-dev/android_device_samsung_a7y18lte/graphs/contributors)                   |
 | 💉 [Common](https://github.com/exynos7885-dev/android_device_samsung_exynos7885-common)           | [![android_device_exynos7885-common]](https://github.com/exynos7885-dev/android_device_samsung_exynos7885-common/graphs/contributors)           |
-| 🧩 [Kernel](https://github.com/exynos7885-dev/android_kernel_samsung_exynos7885)           | [![android_kernel_samsung_exynos7885]](https://github.com/exynos7885-dev/android_kernel_samsung_exynos7885/graphs/contributors)           |
 | 🔩 [Vendor](https://github.com/exynos7885-dev/android_vendor_samsung_exynos7885-common) | [![android_vendor_samsung_exynos7885-common]](https://github.com/exynos7885-dev/android_vendor_samsung_exynos7885-common/graphs/contributors) |
 
 
